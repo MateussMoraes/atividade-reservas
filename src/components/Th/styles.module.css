@@ -2,4 +2,5 @@
   padding: 1rem;
   background-color: var(--primary);
   color: var(--white);
+  text-align: center;
 }
